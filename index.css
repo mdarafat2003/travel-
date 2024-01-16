@@ -117,23 +117,25 @@
 .find-now,
 .frame-icon2 {
   position: absolute;
-  top: 20px;
+  top: 0;
   left: 52px;
+  font-size: 18;
 }
-/* .frame-icon2 {
+.frame-icon2 {
   top: 10;
   left: 10px;
   width: 24px;
   height: 24px;
   overflow: hidden;
-} */
-/* .find-now-parent {
+} 
+.find-now-parent {
   position: absolute;
   top: 14px;
   left: 35px;
   width: 105px;
   height: 24px;
-} */
+  
+}
 .rectangle-parent2 {
   position: relative;
   width: 174px;
